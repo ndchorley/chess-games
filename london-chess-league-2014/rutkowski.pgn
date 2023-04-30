@@ -1,0 +1,17 @@
+[Date "2014.11.26"]
+[White "N. Chorley"]
+[Black "A. Rutkowski"]
+[Event "London Chess League division 4: Wimbledon 2 vs. Metropolitan 4"]
+[Result "1-0"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 e6 7.Bd3 Ne7 8.Be3 Nd5
+9.Bxg6 hxg6 10.Qd2 Qb6 11.O-O-O Bb4 12.Qd3 Bd6 13.Ne4 Bf4 14.Bxf4 Nxf4
+15.Qf1 {I saw Nd6+ in game, but couldn't make it work. It looks like I have
+ Qa3 to follow, threatening Nc4+ if the king moves to the a3-f8 diagonal.
+ Otherwise, I still can't see anything concrete.}
+Na6 16.g3 Nd5 17.Qe1 O-O 18.Nc3 Rfd8 19.Ne5 Nab4 20.Kb1 a5 21.a3 Nxc3+
+22.Qxc3 Nd5 23.Qf3 Nf6 24.Qf4 Rd5 25.Rd3 a4 26.g4 Rb5 27.Nc4 Nd5 28.Nxb6 Nxf4
+29.Nxa8 Nd5 {I expected Nxd3 from him. Not sure why he played Nd5.} 30.c4 Ra5
+31.cxd5 Rxa8 32.dxc6 bxc6 33.Rc1 Rd8 34.Rxc6 Rd5 35.Ra6 Kh7 36.Rxa4 
+{I'm still winning here, but Rh3+ is better.} Kh6 37.b4 Kg5 38.Ra5
