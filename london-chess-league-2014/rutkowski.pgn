@@ -3,6 +3,7 @@
 [Black "A. Rutkowski"]
 [Event "London Chess League division 4: Wimbledon 2 vs. Metropolitan 4"]
 [Result "1-0"]
+[Round "-"]
 [FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
 
 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 e6 7.Bd3 Ne7 8.Be3 Nd5

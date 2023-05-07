@@ -3,6 +3,7 @@
 [Black "N. Chorley"]
 [Event "London Chess League division 6: Hackney MB vs. Metropolitan MB"]
 [Result "1/2-1/2"]
+[Round "-"]
 [FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
 
 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 Nbd7 6.e3 O-O 7.Bd3 dxc4 8.Bxc4 b6 
